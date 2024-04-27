@@ -1,0 +1,27 @@
+Scheda Arduino Uno (originale o non) con rispettivo cavo USB
+Led 5mm (rosso, giallo, verde, blue)
+Resistenze da 330ohm 220ohm 1K 10K
+BreadBoard
+Connettori maschio maschio per il collegamento tra la sched Arduino e la breadboard
+Led RGB
+Barra led 2510SR-1
+Display 7 segmenti 5161BS
+74HC595
+Display 7 segmenti mulitplex 34611BS-1
+Deviatori switch
+Pulsanti 4
+Tastiera a matrice
+Potenziometro
+Transistor Q8050 85850
+Relè 5 volt
+Scheda alimentazione bread board
+Ponte H L293
+Servo modellismo
+Sensore di movimento SW18020
+Sensore infrarosso HC-SR501
+Sensore umidità temperatura DHT11
+Sensore BMP280
+Display LCD 1602 I2C
+KeyPad
+Lettore RFID RC-522
+Ultrasuoni HC-SR04
